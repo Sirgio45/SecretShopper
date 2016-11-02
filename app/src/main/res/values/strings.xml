@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">SecretShopper</string>
+
+    <string name="name_establishment_text_view">Name of Establishment</string>
+    <string name="name_establishment_edit_text"> </string>
+    <string name="name_establishment_edit_text_hint">Enter Name Here!</string>
+
+    <string name="employee_service_text_view">Attitude of Employees </string>
+    <string name="happy_checkBox">Happy :)</string>
+    <string name="annoyed_checkbox">Annoyed >:( </string>
+    <string name="fair_checkbox">Fair :|</string>
+
+    <string name="customer_service_text_view">Did they ask if you needed help?</string>
+    <string name="yes_radiobutton">YES</string>
+    <string name="no_radiobutton">NO</string>
+    <string name="i_asked_radiobutton">I had to asked for help</string>
+
+
+    <string name="exit_button">Exit</string>
+    <string name="clear_button">Clear</string>
+    <string name="submit_button">Submit</string>
+    <string name="currentscore_text_view">Current Score:</string>
+    <string name="finalscore_edit_text">0</string>
+    <string name="finalscore_results_hint">Final Score Results</string>
+    <string name="finalscore_text_view">Final Score:</string>
+    <string name="currentscore_results">Current Score Results</string>
+    <string name="currentscore_edit_text">0</string>
+
+
+    <string-array name="ratingScale">
+    <item>Rating</item>
+    <item>10 Best</item>
+    <item>9</item>
+    <item>8</item>
+    <item>7</item>
+    <item>6</item>
+    <item>5</item>
+    <item>4</item>
+    <item>3</item>
+    <item>2</item>
+    <item>1 Horrible</item>
+</string-array>
+
+
+
+
+
+</resources>
